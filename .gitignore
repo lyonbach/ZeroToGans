@@ -1,1 +1,5 @@
 interpreter
+data
+generated
+__pycache__
+kaggle.json
